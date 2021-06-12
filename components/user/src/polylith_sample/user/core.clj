@@ -1,0 +1,4 @@
+(ns polylith-sample.user.core)
+
+(defn hello [name]
+  (str "Hello " name "!"))
